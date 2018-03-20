@@ -1,32 +1,32 @@
 {
   "users": [{
       "id": 1,
-      "first_name": "Eve",
-      "last_name": "Holt",
+      "firstName": "Eve",
+      "lastName": "Holt",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"
     },
     {
       "id": 2,
-      "first_name": "Charles",
-      "last_name": "Morris",
+      "firstName": "Charles",
+      "lastName": "Morris",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
     },
     {
       "id": 3,
-      "first_name": "Tracey",
-      "last_name": "Ramos",
+      "firstName": "Tracey",
+      "lastName": "Ramos",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
     },
     {
       "id": 4,
-      "first_name": "Janet",
-      "last_name": "Weaver",
+      "firstName": "Janet",
+      "lastName": "Weaver",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
     },
     {
       "id": 5,
-      "first_name": "John",
-      "last_name": "Weels",
+      "firstName": "John",
+      "lastName": "Weels",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
     }
 
